@@ -1,0 +1,1 @@
+kalimat = input("Masukkan sebuah kalimat: ")
